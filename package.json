@@ -1,0 +1,23 @@
+{
+  "name": "pg-test",
+  "version": "1.0.0",
+  "description": "pg-test-tistory",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yeol",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "consolidate": "*",
+    "crypto-js": "^4.0.0",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "express": "*",
+    "pg": "*",
+    "pg-pool": "^3.2.1",
+    "request": "^2.88.2"
+  }
+}
